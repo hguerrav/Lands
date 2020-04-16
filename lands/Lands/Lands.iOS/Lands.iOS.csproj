@@ -175,4 +175,37 @@
   <ItemGroup>
     <BundleResource Include="Resources\ic_chevron_right.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Region-And-Language-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Currencies-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Border-Color-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Select-language-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Info-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_bookmark_border.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_g_translate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_info_outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_language.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_monetization_on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\ic_security.png" />
+  </ItemGroup>
 </Project>
